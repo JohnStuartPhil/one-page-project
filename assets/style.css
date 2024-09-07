@@ -57,6 +57,12 @@ main {
     margin-bottom: 20px;
 }
 
+.radiobuttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
 #contactus {
     background-color: lightsalmon;
     padding: 10px 10% 10px 10%; 
