@@ -45,9 +45,14 @@ main {
 
 #signup {
     background-color: lightblue;
-    padding: 20px 10% 0 10%;
+    padding: 10px 10% 10px 10%; 
     justify-content: space-evenly;
     display: flex;
+}
+
+#signup>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
 }
 
 #contactus {
