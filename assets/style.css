@@ -1,5 +1,8 @@
 /* General styles */
 body {
+    padding: 0;
+    margin: 0;
+    font-size: 1.3rem;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -44,6 +47,26 @@ main {
     background-color: lightsalmon;
 }
 
-#social-networks {
+footer {
     background-color: blueviolet;
 }
+
+/* Footer */
+
+
+#social-networks {
+    
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#copyright {
+    text-align: center;
+    padding: 20px 0;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
