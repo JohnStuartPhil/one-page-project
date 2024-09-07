@@ -54,6 +54,109 @@
             </div>
         </section>
 
+
+        <section id="signup">
+            <form id="signup-form" action="https://formdump.codeinstitute.net" method="POST">
+                <div>
+                    <h2>Are you interested in learning a world language with us?</h2><br>
+                    <h3>Please provide your details:</h3>
+                </div>
+
+                <div>
+                    <div>
+                        <label for="name-field">First name</label>
+                        <br>
+                        <input required id="name-field" type="text" name="first_name" placeholder="Your first name">
+                    </div>
+                    <div>
+                        <label for="name-field">Surname</label>
+                        <br>
+                        <input required id="name-field" type="text" name="surnname" placeholder="Your surname">
+                    </div>
+                    <div>
+                        <label for="email-field">Email</label>
+                        <br>
+                        <input required id="email-field" type="email" name="email" placeholder="Your email">
+                    </div>
+
+                    <label for="age">Age</label>
+                    <br>
+                    <select required id="age" name="age">
+                        <option value="18-21">18-19</option>
+                        <option value="20s">20-29</option>
+                        <option value="30s">30-39</option>
+                        <option value="40s">40-49</option>
+                        <option value="50s">50-59</option>
+                        <option value="60s">60-67</option>
+                        <option value="68+">68+</option>
+                    </select>
+
+                    <br>
+
+                    <label for="gender">Gender</label>
+                    <br>
+                    <select required id="gender" name="gender">
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="Non-binary">Non-binary</option>
+                        <option value="prefer_not_to_say">Prefer not to say</option>
+                    </select>
+
+                </div>
+
+                <br>
+
+
+                <div>
+
+                    <h3>Which world language would you like to learn with us?</h3><br>
+
+                    <div>
+                        <div class="radio-buttons">
+
+                            <input type="radio" name="world_language" id="english" value="english" required>
+                            
+                            <label for="english">English</label>
+                        </div>
+
+                        
+
+                        <div class="radio-buttons">
+
+                            <input type="radio" name="world_language" id="spanish" value="spanish" required>
+                            
+                            <label for="spanish">Spanish</label>
+                        </div>
+
+                        <div class="radio-buttons">
+
+                            <input type="radio" name="world_language" id="french" value="french" required>
+                            
+                            <label for="french">French</label>
+                        </div>
+
+
+                    </div>
+
+                    <br>
+
+                    <div>
+                        <h3>Why would you like to learn this world language?</h3><br>
+
+
+                        <textarea id="feedback" rows="4" cols="37" name="feedback"></textarea>
+                    </div>
+
+
+                    <button type="submit" class="send-button">
+                        <strong>Send</strong>
+                    </button>
+                    <input type="reset" class="reset-button" value="Reset Form">
+
+            </form>
+        </section>
+
+        
     </main>
 </body>
 
