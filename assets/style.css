@@ -22,6 +22,7 @@ body {
 
 #header {
     background-color: aqua;
+    padding: 10px 10% 10px 10%; 
 }
 
 /* Main content */
@@ -37,10 +38,12 @@ main {
 
 #about {
     background-color: lightcoral;
+    padding: 10px 10% 10px 10%; 
 }
 
 #classtimes {
     background-color: lightgreen;
+    padding: 10px 10% 10px 10%; 
 }
 
 #signup {
@@ -57,6 +60,7 @@ main {
 
 #contactus {
     background-color: lightsalmon;
+    padding: 10px 10% 10px 10%; 
 }
 
 
