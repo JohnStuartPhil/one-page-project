@@ -36,6 +36,12 @@ main {
 #header {
     background-color: aqua;
     padding: 10px 10% 10px 10%; 
+    text-align: center;
+}
+
+#hero {
+    position: relative;
+    text-align: center;
 }
 
 #about {
@@ -89,3 +95,15 @@ main {
     padding: 20px 0;
 } 
 
+/* Media queries */
+@media screen and (min-width: 768px) {
+    
+    #nav {
+        height: 40px;
+    }
+
+    #nav ul {
+        display: flex;
+    }
+    
+}
