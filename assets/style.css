@@ -16,13 +16,17 @@ body {
 
 #nav {
     background-color: lightgrey;
+    /*font-size: 1rem;*/
+    
+    
 }
 
 
 
-#header {
-    background-color: aqua;
-    padding: 10px 10% 10px 10%; 
+#logo {
+    font-size: 150%;
+    letter-spacing: 4px;
+    list-style-type: none;
 }
 
 /* Main content */
@@ -34,6 +38,11 @@ main {
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
+}
+
+#header {
+    background-color: aqua;
+    padding: 10px 10% 10px 10%; 
 }
 
 #about {
