@@ -71,16 +71,19 @@ main {
     justify-content: space-between;
 }
 
-#contactus {
+
+/* Footer */
+
+footer {
     background-color: lightsalmon;
+}
+
+#contactus {
     padding: 10px 10% 10px 10%; 
     justify-content: space-evenly;
     text-align: center;
     
 }
-
-
-/* Footer */
 
 #social-networks {
     text-align: center;
