@@ -34,9 +34,13 @@ main {
 }
 
 #header {
-    background-color: aqua;
+    background-color: white;
     padding: 10px 10% 10px 10%; 
     text-align: center;
+}
+
+.intro {
+    color: blue;
 }
 
 #hero {
@@ -45,15 +49,25 @@ main {
 }
 
 #about {
-    background-color: lightcoral;
+    background-color: #e74c3c;
+    color: white;
     padding: 10px 10% 10px 10%; 
     text-align: center;
 }
 
+.list {
+    color: white;
+    list-style-type: none;
+}
 
+
+
+.signup {
+    color: blue;
+}
 
 #signup {
-    background-color: lightblue;
+    background-color: white;
     padding: 10px 10% 10px 10%; 
     justify-content: space-evenly;
     display: flex;
@@ -61,7 +75,7 @@ main {
 }
 
 #signup>h2 {
-    color: #fafafa;
+    color: blue;
     margin-bottom: 20px;
 }
 
@@ -71,11 +85,20 @@ main {
     justify-content: space-between;
 }
 
+.send-button {
+    color: blue;
+}
+
+.reset-button {
+    color: blue;
+}
+
 
 /* Footer */
 
 footer {
-    background-color: lightsalmon;
+    background-color: #e74c3c;
+    color: white;
 }
 
 #contactus {
