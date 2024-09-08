@@ -40,7 +40,7 @@ main {
 }
 
 .intro {
-    color: blue;
+    color: black;
 }
 
 #hero {
@@ -49,21 +49,21 @@ main {
 }
 
 #about {
-    background-color: #e74c3c;
-    color: white;
+    background-color: blue;
+    color: gold;
     padding: 10px 10% 10px 10%; 
     text-align: center;
 }
 
 .list {
-    color: white;
+    color: gold;
     list-style-type: none;
 }
 
 
 
 .signup {
-    color: blue;
+    color: black;
 }
 
 #signup {
@@ -85,20 +85,23 @@ main {
     justify-content: space-between;
 }
 
+/*
 .send-button {
-    color: blue;
+    color: gold;
+    background-color: blue;
 }
 
 .reset-button {
-    color: blue;
+    color: gold;
+    background-color: blue;
 }
-
+*/
 
 /* Footer */
 
 footer {
-    background-color: #e74c3c;
-    color: white;
+    color: gold;
+    background-color: blue;
 }
 
 #contactus {
