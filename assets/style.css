@@ -17,6 +17,12 @@ body {
 #nav {
     background-color: lightgray;
     font-size: 1.0rem;
+    
+}
+
+#nav a {
+    text-decoration: none;
+    color: inherit;
 }
 
 #nav ul {
@@ -120,6 +126,12 @@ footer {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: gold;
 }
 
 #copyright {
