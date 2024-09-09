@@ -15,7 +15,7 @@ body {
 }
 
 #nav {
-    background-color: lightgray;
+    background-color: white;
     font-size: 1.0rem;
     
 }
@@ -51,11 +51,14 @@ main {
 
 #header {
     max-width: 100%;
-    /*padding: 10px 10% 10px 10%; */
-    text-align: center;
 }
 
-.section {
+#intro {
+    max-width: 100%;
+    text-align: center;
+    /*padding: 10px 10% 10px 10%; */
+    margin-top: 4px;
+    margin-bottom: 4px;
     
 }
 
@@ -68,7 +71,7 @@ main {
 }
 
 #intro {
-    background-color: red;
+    background-color: inherit;
     color: black;
     margin-top: 5;
     /*position: relative;*/
