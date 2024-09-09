@@ -55,15 +55,19 @@ main {
     text-align: center;
 }
 
+/*
 #hero {
-    background-color: red;
-    color: black;
     position: relative;
-    text-align: center;
+}
+    */
+
+.hero {
+    position: relative;
+    width: 100%;
 }
 
 #intro {
-    background-color: green;
+    background-color: inherit;
     color: black;
     position: relative;
     text-align: center;
@@ -188,15 +192,11 @@ footer {
 }
 
         #hero {
-            background-color: red;
-            color: black;
-            text-align: center;
             width: 50%;
         }
         
         #intro {
-            background-color: green;
-            color: black;
+            color: inherit;
             text-align: center;
             width: 50%;
         }
