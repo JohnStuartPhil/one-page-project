@@ -91,6 +91,14 @@ main {
     list-style-type: none;
 }
 
+#timetable {
+    font-size: 70%;   
+}
+
+#table {
+    text-align: center;
+}
+
 
 
 .signup {
