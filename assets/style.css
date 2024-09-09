@@ -59,6 +59,26 @@ main {
     /*padding: 10px 10% 10px 10%; */
 }
 
+#one {
+    color: blue;
+}
+
+#two {
+    color: black;
+}
+
+#three {
+    color: orange;
+}
+
+#four {
+    color: red;
+}
+
+#five {
+    color: purple;
+}
+
 #hero {
     /*position: relative;*/
 }
