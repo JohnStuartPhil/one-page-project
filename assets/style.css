@@ -95,10 +95,6 @@ main {
     
 }
 
-
-
-
-
 #about {
     background-color: #3498db;
     color: white;
@@ -252,7 +248,7 @@ footer {
 
 }
 
-/* Media queries */
+/* Media queries 
 @media screen and (min-width: 992px) {
 
     #intro {
@@ -263,3 +259,5 @@ footer {
         margin-top: 2%
     }
 }
+
+*/
