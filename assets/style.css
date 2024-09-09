@@ -8,14 +8,14 @@ body {
     font-size: 1rem;
     min-height: 100vh;
     display: flex;
-    flex-direction: column;
+    flex-direction: column;pythonr
     /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Kanit', sans-serif;
 }
 
 #nav {
-    background-color: lightgray;
+    background-color: white;
     font-size: 1.0rem;
     
 }
@@ -67,7 +67,7 @@ main {
 }
 
 #intro {
-    background-color: inherit;
+    background-color: red;
     color: black;
     position: relative;
     text-align: center;
