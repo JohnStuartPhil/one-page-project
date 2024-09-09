@@ -55,14 +55,21 @@ main {
     text-align: center;
 }
 
-.intro {
-    color: black;
-}
-
 #hero {
+    background-color: red;
+    color: black;
     position: relative;
     text-align: center;
 }
+
+#intro {
+    background-color: green;
+    color: black;
+    position: relative;
+    text-align: center;
+}
+
+
 
 #about {
     background-color: blue;
@@ -174,4 +181,26 @@ footer {
         margin-right: 20px;
         }
     
+/* header */
+
+#header {
+    display: flex;
+}
+
+        #hero {
+            background-color: red;
+            color: black;
+            position: relative;
+            text-align: center;
+            width: 50%;
+        }
+        
+        #intro {
+            background-color: green;
+            color: black;
+            position: relative;
+            text-align: center;
+            width: 50%;
+        }
+
 }
