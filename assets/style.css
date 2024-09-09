@@ -29,6 +29,11 @@ body {
     list-style-type: none;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
 
 #logo {
     font-size: 120%;
