@@ -251,3 +251,15 @@ footer {
 }
 
 }
+
+/* Media queries */
+@media screen and (min-width: 970px) {
+
+    #intro {
+        color: inherit;
+        text-align: center;
+        width: 50%;
+        font-size: 160%;
+        margin-top: 2%
+    }
+}
