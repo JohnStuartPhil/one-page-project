@@ -253,7 +253,7 @@ footer {
 }
 
 /* Media queries */
-@media screen and (min-width: 970px) {
+@media screen and (min-width: 992px) {
 
     #intro {
         color: inherit;
