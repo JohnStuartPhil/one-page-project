@@ -57,9 +57,6 @@ main {
     max-width: 100%;
     text-align: center;
     /*padding: 10px 10% 10px 10%; */
-    margin-top: 4px;
-    margin-bottom: 4px;
-    
 }
 
 #hero {
@@ -73,10 +70,12 @@ main {
 #intro {
     background-color: inherit;
     color: black;
-    margin-top: 5;
     /*position: relative;*/
     text-align: center;
+    
 }
+
+
 
 
 
@@ -204,6 +203,7 @@ footer {
             color: inherit;
             text-align: center;
             width: 50%;
+            font-size: 150%;
         }
 
 }
