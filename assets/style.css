@@ -55,21 +55,23 @@ main {
     text-align: center;
 }
 
-/*
-#hero {
-    position: relative;
+.section {
+    
 }
-    */
 
+#hero {
+    /*position: relative;*/
+}
+    
 .hero {
-    position: relative;
     width: 100%;
 }
 
 #intro {
     background-color: red;
     color: black;
-    position: relative;
+    margin-top: 5;
+    /*position: relative;*/
     text-align: center;
 }
 
