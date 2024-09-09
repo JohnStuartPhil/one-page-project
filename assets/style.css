@@ -91,8 +91,12 @@ main {
     list-style-type: none;
 }
 
+li {
+    list-style-type: none;
+}
+
 #timetable {
-    font-size: 70%;   
+    font-size: 75%;   
 }
 
 #table {
@@ -214,5 +218,16 @@ footer {
             font-size: 150%;
             margin-top: 10%;
         }
+
+
+
+#timetable {
+    font-size: 110%;
+    
+}
+
+#table {
+    text-align: center;
+}
 
 }
