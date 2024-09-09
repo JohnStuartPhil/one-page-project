@@ -190,7 +190,6 @@ footer {
         #hero {
             background-color: red;
             color: black;
-            position: relative;
             text-align: center;
             width: 50%;
         }
@@ -198,7 +197,6 @@ footer {
         #intro {
             background-color: green;
             color: black;
-            position: relative;
             text-align: center;
             width: 50%;
         }
