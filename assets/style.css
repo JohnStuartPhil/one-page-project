@@ -14,7 +14,7 @@ body {
 }
 
 #nav {
-    background-color: white;
+    background-color: lightgray;
     font-size: 1.0rem;
     
 }
@@ -52,11 +52,13 @@ main {
 
 #header {
     max-width: 100%;
+    background-color: lightgray;
 }
 
 #intro {
     max-width: 100%;
     text-align: center;
+    background-color: lightgray;
     /*padding: 10px 10% 10px 10%; */
 }
 
@@ -69,7 +71,7 @@ main {
 }
 
 #three {
-    color: #d35400;
+    color: orange;
 }
 
 #four {
@@ -137,17 +139,14 @@ li {
 .times {
     text-align: left;
 }
-    
-
-
     /* Sign up */
-
 .signup {
     color: black;
 }
 
 #signup {
-    background-color: white;
+   color: black;
+    background-color: lightgray;
     padding: 10px 10% 10% 10%; 
     justify-content: space-evenly;
     display: flex;
@@ -190,7 +189,7 @@ li {
 
 footer {
     color: black;
-    background-color:white;
+    background-color: lightgray;
 }
 
 
