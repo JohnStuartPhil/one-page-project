@@ -80,9 +80,11 @@ main {
     color: purple;
 }
 
+/*
 #hero {
-    /*position: relative;*/
+    position: relative;
 }
+    */
     
 .hero {
     width: 100%;
