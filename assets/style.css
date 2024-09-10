@@ -127,8 +127,7 @@ li {
 
 #table {
     text-align: center;
-    font-size: 75%;
-
+    font-size: 74%;
 }
 
 #table>h3 {
@@ -247,7 +246,7 @@ footer {
         
         #intro {
             color: inherit;
-            text-align: center;
+            /*text-align: center;*/
             width: 50%;
             font-size: 110%;
             margin-top: 0%
