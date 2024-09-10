@@ -71,11 +71,11 @@ main {
 }
 
 #three {
-    color: orange;
+    color: #FF5F1F;
 }
 
 #four {
-    color: red;
+    color: #FF2400;
 }
 
 #five {
@@ -102,9 +102,12 @@ main {
 
 /*About us */
 
-#about {
-    background-color: #3498db;
+.aboutuscontactus {
+    background-color: #1877F2;
     color: white;
+}
+
+#about {
     padding: 10px 10% 10px 10%; 
     text-align: center;
     
@@ -177,8 +180,6 @@ li {
 */
 
 #contactus {
-    background-color: #3498db;
-    color: white;
     padding: 10px 10% 10px 10%; 
     justify-content: space-evenly;
     text-align: center;
