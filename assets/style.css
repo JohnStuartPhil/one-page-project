@@ -33,6 +33,7 @@ body {
     font-size: 150%;
     letter-spacing: 4px;
     list-style-type: none;
+    text-transform: uppercase;
 }
     
 #menu {
