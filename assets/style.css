@@ -237,11 +237,7 @@ footer {
         letter-spacing: 4px;
     }
 
-    li {
-        display: inline-flex;
-        
-        margin-right: 20px;
-        }
+    
     
 /* header */
 
@@ -257,10 +253,15 @@ footer {
             color: inherit;
             /*text-align: center;*/
             width: 50%;
-            font-size: 110%;
+            font-size: 69%;
             margin-top: 0%
         }
 
+
+        li {
+            display: inline-flex;
+            margin-right: 20px;
+            }
 
 
 #timetable {
