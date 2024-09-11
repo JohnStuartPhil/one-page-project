@@ -19,12 +19,12 @@ body {
 }
 
 #nav a {
-    text-decoration: none;
+    text-decoration: none; /*takes out underlines*/
     color: inherit;
 }
 
 #nav ul {
-    list-style-type: none;
+    list-style-type: none; /*takesout bullet points*/
 }
 
 #logo {
@@ -37,8 +37,6 @@ body {
     
 #menu {
     font-size: 100%;
-    letter-spacing: 4px;
-    list-style-type: none;
 }
 /* Main content */
 main {
@@ -130,7 +128,7 @@ li {
 }
 
 #signup {
-   color: black;
+    color: black;
     background-color: lightgray;
     padding: 10px 10% 10% 10%; 
     justify-content: space-evenly;
