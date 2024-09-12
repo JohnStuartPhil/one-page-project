@@ -1,4 +1,4 @@
-g/* Google fonts import */
+/* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&family=Kanit:ital,wght@0,300;1,100&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
@@ -72,7 +72,7 @@ main {
 }
 
 #three {
-    color: #c44f20;
+    color: #976a16;
 }
 
 #four {
@@ -120,7 +120,7 @@ li {
 
 #table {
     text-align: center;
-    font-size: 73%;
+    font-size: 50%;
 }
 
 #table>h3 {
