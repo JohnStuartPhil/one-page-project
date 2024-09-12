@@ -13,33 +13,36 @@
 </head>
 
 <body>
-    <!-- navbar -->
-    <nav id="nav">
-        <ul id="menu">
-            <li id="logo"><a href="#header">Languages School</a></li>
-            <li><a href="#about">About Us</a></li>
-            <li><a href="#signup">Sign Up</a></li>
-            <li><a href="#contactus">Contact Us</a></li>
-        </ul>
-    </nav>
-    <!-- header-->
-    <header id="header" class="section">
-        <div id="hero">
-            <img src="assets/images/world-map-marketing-megaphone-man-job-loudspeaker.webp" id="pic" class="hero"
-                alt="man shouting at the world with a megaphone">
-        </div>
-        <div id="intro" class="intro">
-            <h1>Languages School</h1>
-            <h2>We offer classes for adults in the following languages:</h2>
-            <h3 id="one">French</h3>
-            <h3 id="two">German</h3>
-            <h3 id="three">Spanish</h3>
-            <h3 id="four">Chinese</h3>
-            <h3 id="five">Arabic</h3>
-        </div>
+    <header>
+        <!-- navbar -->
+        <nav id="nav">
+            <ul id="menu">
+                <li id="logo"><a href="#header">Languages School</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#signup">Sign Up</a></li>
+                <li><a href="#contactus">Contact Us</a></li>
+            </ul>
+        </nav>
     </header>
     <!--Main-->
     <main>
+        <!-- header-->
+        <section id="header" class="section">
+            <div id="hero">
+                <img src="assets/images/world-map-marketing-megaphone-man-job-loudspeaker.webp" id="pic" class="hero"
+                    alt="man shouting at the world with a megaphone">
+            </div>
+            <div id="intro" class="intro">
+                <h1>Languages School</h1>
+                <h2>We offer classes for adults in the following languages:</h2>
+                <h3 id="one">French</h3>
+                <h3 id="two">German</h3>
+                <h3 id="three">Spanish</h3>
+                <h3 id="four">Chinese</h3>
+                <h3 id="five">Arabic</h3>
+            </div>
+        </section>
+
         <!--About Us-->
         <section id="about" class="aboutuscontactus">
             <h2>About us</h2>
@@ -156,12 +159,14 @@
                         <label for="arabic">Arabic</label>
                     </div>
                 </div>
+
                 <div>
                     <h3>Why would you like to learn this language?</h3>
 
                     <textarea id="feedback" rows="4" cols="35" name="feedback"
                         placeholder="Why would you like to learn this language?" required></textarea>
                 </div>
+
                 <div>
                     <button type="submit" class="send-button">
                         <strong>Send</strong>

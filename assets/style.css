@@ -1,6 +1,13 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&family=Kanit:ital,wght@0,300;1,100&display=swap');
 
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 /* General styles */
 body {
     padding: 0;
@@ -16,6 +23,7 @@ body {
 #nav {
     background-color: lightgray;
     font-size: 1.0rem;
+    padding: 2% 2% 2% 2%;
 }
 
 #nav a {
