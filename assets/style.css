@@ -1,4 +1,4 @@
-/* Google fonts import */
+g/* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&family=Kanit:ital,wght@0,300;1,100&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
@@ -133,6 +133,7 @@ li {
     /* Sign up */
 .signup {
     color: black;
+    display: flex;
 }
 
 #signup {
@@ -147,6 +148,15 @@ li {
 #signup>h2 {
     color: blue;
     margin-bottom: 20px;
+}
+
+#signup-form {
+    color: black;
+    background-color: lightgray;
+    padding: 10px 10% 10% 10%; 
+    justify-content: space-evenly;
+    /*display: flex;*/
+    text-align: center;
 }
 
 .radiobuttons {
