@@ -157,7 +157,7 @@ th, td {
 #signup {
     color: black;
     background-color: lightgray;
-    padding: 10px 10% 10% 10%; 
+    padding: 10px 10% 0 10%; 
     justify-content: space-evenly;
     display: flex;
     text-align: center;
@@ -189,6 +189,11 @@ th, td {
     text-align: center;
     
 }
+
+#buttons {
+    padding: 20px 10% 20px 10%; 
+}
+
 /* Footer */
 footer {
     color: black;
