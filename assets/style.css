@@ -59,6 +59,7 @@ main {
 
 #intro {
     max-width: 100%;
+    padding: 12px 10% 12px 10%;
     text-align: center;
     background-color: lightgray; 
 }
@@ -87,12 +88,7 @@ main {
     width: 100%;
 }
 
-#intro {
-    background-color: inherit;
-    color: black;
-    text-align: center;
-    
-}
+
 /*About us */
 .aboutuscontactus {
     background-color: #0e2b52;
@@ -116,7 +112,7 @@ main {
 }
 
 #list {
-    
+    justify-content: left;
     list-style-type: none;
 }
 
@@ -257,16 +253,17 @@ footer {
         }
        
         #intro {
+            padding:padding: 20px 1% 20px 1%; 
             color: inherit;
-            /*text-align: center;*/
+            text-align: center;
             width: 50%;
-            font-size: 69%;
+            font-size: 90%;
             margin-top: 0%
         }
 
-        /*li {
-            display: inline-flex;
-            margin-right: 20px;
+        /*li
+            display: inline-flex;*/
+            /*margin-right: 20px;
             }*/
 
          /*#about {
@@ -279,12 +276,14 @@ footer {
 
 #about {
  width: 50%;
- 
+}
+
+#offer {
+    justify-content: space-evenly;
 }
 
 #timetable {
     width: 50%;
-    
     font-size: 110%;
 }
 
