@@ -119,8 +119,12 @@ li {
 } 
 
 #table {
-    text-align: center;
+    text-align: left;
     font-size: 100%;
+}
+
+th, td { 
+    padding: 2px; 
 }
 
 #table>h3 {
