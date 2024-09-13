@@ -219,7 +219,7 @@ footer {
     padding: 20px 0;
 } 
 /* Media queries */
-@media screen and (min-width: 667px) {
+@media screen and (min-width: 768px) {
     
     #nav {
         height: 60px;
@@ -309,43 +309,17 @@ footer {
 
 
 @media screen and (min-width: 992px) {
-
-    #header {
-        display: flex;
-    }
-    
-            #hero {
-                width: 50%;
-            }
-            
             #intro {
-                color: inherit;
-                text-align: center;
-                width: 50%;
-                font-size: 110%;
-                margin-top: 0%
+                font-size: 150%;
             }
-
         }
 
-        @media screen and (min-width: 1024px) {
-
-            #header {
-                display: flex;
-            }
-            
-                    #hero {
-                        width: 50%;
-                    }
-                    
-                    #intro {
-                        color: inherit;
-                        text-align: center;
-                        width: 50%;
-                        font-size: 110%;
-                        margin-top: 0%
-                    }
         
-                }
+        
+        
+        
+        
+    
+        
 
             
