@@ -251,7 +251,8 @@ footer {
 }
         #hero {
             width: 50%;
-            background-color: #1C2452;
+            background-color: inherit;
+            /*background-color: #1C2452;*/
             position: relative;
             bottom: 0;
         }
@@ -295,8 +296,11 @@ footer {
     text-align: left;
 }
 
+
+
 #list {
-    width: 50%;
+    width: 100%;
+    font-size: 130%;
 }
 
 
