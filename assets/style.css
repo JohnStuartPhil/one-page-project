@@ -282,11 +282,10 @@ footer {
 #about {
  width: 50%;
  font-size: 80%;
+ justify-content: space-evenly;
 }
 
-#offer {
-    justify-content: space-evenly;
-}
+
 
 #timetable {
     width: 50%;
@@ -300,7 +299,7 @@ footer {
 
 
 #list {
-    width: 100%;
+    width: 120%;
     font-size: 130%;
 }
 
