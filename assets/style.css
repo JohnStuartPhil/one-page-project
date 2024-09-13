@@ -281,6 +281,7 @@ footer {
 
 #about {
  width: 50%;
+ font-size: 80%;
 }
 
 #offer {
@@ -289,7 +290,7 @@ footer {
 
 #timetable {
     width: 50%;
-    font-size: 110%;
+    font-size: 100%;
 }
 
 #table {
