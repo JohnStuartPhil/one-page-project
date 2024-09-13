@@ -72,15 +72,15 @@ main {
 }
 
 #three {
-    color: #976a16;
+    color: #64450ac0;
 }
 
 #four {
-    color: #cc260d;
+    color: #c73a25;
 }
 
 #five {
-    color: green;
+    color: #328332;
 }
 
 .hero {
@@ -104,7 +104,9 @@ main {
     text-align: center;    
 }
 
-.list {
+
+
+#list {
     
     list-style-type: none;
 }
