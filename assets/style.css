@@ -244,13 +244,22 @@ footer {
             margin-right: 20px;
             }
 
+         #about {
+            display: flex;
+         }   
+
 #timetable {
+    width: 50%;
     font-size: 110%;
     
 }
 
 #table {
     text-align: left;
+}
+
+#list {
+    width: 50%;
 }
 
 }
