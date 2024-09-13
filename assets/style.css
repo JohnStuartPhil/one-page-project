@@ -164,7 +164,7 @@ th, td {
 }
 
 #signup>h2 {
-    color: blue;
+    
     margin-bottom: 20px;
 }
 
@@ -218,6 +218,7 @@ footer {
     
     #nav {
         height: 60px;
+        
     }
 
     #nav ul {
@@ -234,6 +235,11 @@ footer {
     #menu {
         letter-spacing: 4px;
     }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
 /* header */
 #header {
     display: flex;
