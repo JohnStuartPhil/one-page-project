@@ -114,10 +114,10 @@ main {
 #list {
     justify-content: left;
     list-style-type: none;
+    
 }
 
 li {
-    list-style-type: none;
     text-align: left;
 }
 
@@ -131,10 +131,13 @@ li {
 #table {
     text-align: left;
     font-size: 100%;
+    
 }
 
 th, td { 
-    padding: 2px; 
+    padding: 2px;
+  text-align: left;
+    border-bottom: 1px solid #ddd;
 }
 
 #table>h3 {
