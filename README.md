@@ -48,3 +48,39 @@ Users of this website shall be able to find all the information that they need t
   - Below the social media icons is the copyright of the website author.
 
 ![alt text](assets/imagesforreadme/footer.PNG)
+
+## Testing 
+  - I tested the webpage in different browsers: Chrome, Firefox, Microsoft Edge and WaveBrowser.
+  - I confirmed that the website is reponsive, looks good and functions on all standard screen sizes using the devtools device toolbar. 
+  - I confirmed that the navigation, header, about us, sign up and contact us text are all readable and easy to understand.
+  - I have confirmed that the navigation bar works and takes the user to the appropriate section of the website.
+  - I have confirmed that the form works: requires entries in every field, will only accpet an email in he email field, one radio button must be selected and at least one charachter must be entered into the textarea box.
+  - When all the required content has been entered into the Sign Up form and the Send button is pressed, this brings up the entered data into a sperate tab. 
+  - I have confimred that the reset button works and clears data entered into the Sign Up form when pressed. 
+
+### Bugs 
+
+**Solved Bugs**
+  - While using DevTools, I noticed that there were warnings regarding the site.webmanifest part of the code in the FavIcon section in the Head was not linking correctly. This was resolved with tutor support help.
+
+  - Updating the url to add a dot before the trailing slash to indicate the png is in the same directory fixed the problem.
+
+![alt text](assets/imagesforreadme/warning.png)
+
+**Validator Testing**
+- HTML 
+  - No errors were retunred when passing through the official W3C validator.
+- CSS 
+  - No errors were retunred when passing through the official (Jigsaw) validator.
+- Accessibility 
+  - I confirmed thath the colors and fonts chosen are easy to read and accessible by running it through Lighthouse in both mobile and deskptop in Dev Tools.
+  - WAVE was also used to test validity
+
+![alt text](assets/imagesforreadme/lighthousemobile.PNG)
+
+![alt text](assets/imagesforreadme/lighthousedesktop.PNG)
+
+![alt text](assets/imagesforreadme/wavetest.PNG)
+
+
+
