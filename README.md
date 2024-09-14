@@ -76,6 +76,14 @@ Users of this website shall be able to find all the information that they need t
   - I confirmed thath the colors and fonts chosen are easy to read and accessible by running it through Lighthouse in both mobile and deskptop in Dev Tools.
   - WAVE was also used to test validity
 
+**HTML testing, W3C validator**
+
+![alt text](assets/imagesforreadme/validatorhtml.PNG)
+
+**CSS testing, Jigsaw validator**
+
+![alt text](assets/imagesforreadme/validatorcss.PNG)
+
 **Lighthouse results:**
 
 |   | Performance  |Accesibility   |Best Practices    | SEO  |
@@ -96,5 +104,18 @@ Users of this website shall be able to find all the information that they need t
 
 ![alt text](assets/imagesforreadme/wavetest.PNG)
 
+## Deployment 
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 
+The live link can be found here - https://johnstuartphil.github.io/one-page-project/
+
+## Credits 
+
+**Content**
+- The code to make the Asterisk wildcard sleector, general styles in the body, Navigation Bar of the CSS and the Social Media linkes were taken from the Love Running Project and edited accordingly.
+- The code to make the Sign Up form was taken from the Coders Cafe tutorial and edited accordingly.
+- The code to style the timetable was taken from www.w3schools.com and edited accordingly - https://www.w3schools.com/css/css_table_style.asp
+
+**Media** 
+- The Hero image was taken from PXHere - https://pxhere.com/en/photo/1447727
