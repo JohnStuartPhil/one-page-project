@@ -61,7 +61,7 @@ Users of this website shall be able to find all the information that they need t
 ### Bugs 
 
 **Solved Bugs**
-  - While using DevTools, I noticed that there were warnings regarding the site.webmanifest part of the code in the FavIcon section in the Head was not linking correctly. This was resolved with tutor support help.
+  - While using DevTools, I noticed that there were warnings regarding the site.webmanifest part of the code in the FavIcon section was not linking correctly. This was resolved with tutor support help.
 
 ![warnings generated from dev tools](assets/imagesforreadme/warning.png)
 
@@ -76,8 +76,8 @@ Users of this website shall be able to find all the information that they need t
 - CSS 
   - No errors were retunred when passing through the official (Jigsaw) validator.
 - Accessibility 
-  - I confirmed thath the colors and fonts chosen are easy to read and accessible by running it through Lighthouse in both mobile and deskptop in Dev Tools.
-  - WAVE was also used to test validity
+  - I confirmed that the colors and fonts chosen, are easy to read and accessible by running it through Lighthouse in both mobile and deskptop in Dev Tools.
+  - WAVE was also used to test validity which has no errors nor contrast errors.
 
 **HTML testing, W3C validator**
 
