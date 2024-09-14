@@ -24,5 +24,8 @@ Users of this website shall be able to find all the information that they need t
 ![alt text](assets/imagesforreadme/hero.PNG)    
 
 - The About Us Section 
-  - 
+  - The About Us section provides details about what the school offers and a timetable of language classes.
+  - This section shows the user the important information that they need to know about the club, what is on offer and class times for each language.
+
+![alt text](assets/imagesforreadme/aboutus.PNG)
 
