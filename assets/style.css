@@ -10,11 +10,11 @@
 body {
     padding: 0;
     margin: 0;
-    font-size: 1rem;
+    /*font-size: 1rem;*/
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #3a3a3a;
+    /*color: #3a3a3a;*/
     font-family: 'Kanit', sans-serif;
 }
 
@@ -113,7 +113,7 @@ li {
 
 #timetable {
     padding: 12px 10% 12px 10%; 
-    text-align: left;  
+    /*text-align: left;*/
     background-color: #0e2b52;
     color: white;
 } 
@@ -230,7 +230,7 @@ footer {
 }
 #timetable {
     width: 50%;
-    font-size: 100%;
+    /*font-size: 100%;*/
 }
 
 #table {
