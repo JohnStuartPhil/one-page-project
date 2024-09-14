@@ -135,16 +135,20 @@ Users of this website shall be able to find all the information that they need t
 
 The live link can be found here - https://johnstuartphil.github.io/one-page-project/
 
-- To access another repository, the steps are as follows:
+## Forking the Repository
+- To Folk a repository, the steps are as follows:
   
   -Go to the Code tab of the GitHub repository.
-  -Select another repository.
+  -Click on the down arrow of the Folk section
+  -This should create a copy of the repository in yuor own repository
 
+## Cloning the Repository
 - To make a clone of a repository, the steps are as follows:
 
   -Go to the Code tab of the GitHub repository.
   -Click on the down arrow of the green code button.
-  -Select a URL.
+  -Select a URL provided and copy it to the clipboard
+  -
 
 ## Credits 
 
