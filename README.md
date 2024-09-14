@@ -76,6 +76,14 @@ Users of this website shall be able to find all the information that they need t
   - I confirmed thath the colors and fonts chosen are easy to read and accessible by running it through Lighthouse in both mobile and deskptop in Dev Tools.
   - WAVE was also used to test validity
 
+**Lighthouse results:**
+
+|   | Performance  |Accesibility   |Best Practices    | SEO  |
+|---|---|---|---|---|
+| Mobile:  |  90 | 100  | 100  |100   |
+| Desktop:  | 99  | 100  | 100  | 100  |
+
+
 ![alt text](assets/imagesforreadme/lighthousemobile.PNG)
 
 ![alt text](assets/imagesforreadme/lighthousedesktop.PNG)
