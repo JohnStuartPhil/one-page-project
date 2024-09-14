@@ -101,13 +101,6 @@ main {
     color: white;
 }
 
-#what-we-do {
-    
-    padding: 12px 10% 12px 10%; 
-    text-align: center;    
-    
-}
-
 
 
 #about {
@@ -117,11 +110,14 @@ main {
     color: white;
 }
 
+#what-we-do {
+    padding: 12px 10% 12px 10%; 
+    text-align: center;    
+}
 #list {
     justify-content: left;
     /*list-style-type: none;*/
-    list-style-position: inside;
-    
+    list-style-position: inside;   
 }
 
 li {
@@ -138,22 +134,18 @@ li {
 #table {
     text-align: left;
     font-size: 100%;
-    
 }
 
+/*styling the table*/
 th, td { 
     padding: 2px;
     text-align: left;
     border-bottom: 1px solid white;
 }
 
-#table>h3 {
-    text-align: left;
-}
 
-.times {
-    text-align: left;
-}
+
+
     /* Sign up */
 .signup {
     color: black;
