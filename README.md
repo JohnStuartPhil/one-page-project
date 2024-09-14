@@ -17,3 +17,4 @@ Users of this website shall be able to find all the information that they need t
   - The navigation is in a clear, easy to read font and a color that contrasts with the background. 
   - The navigation clearly tells the user the name of the school and the website and makes different sections of information easy to find. 
 
+![alt text](assets/imagesforreadme/navbar.PNG)
