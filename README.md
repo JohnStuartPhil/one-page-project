@@ -71,7 +71,7 @@ Users of this website shall be able to find all the information that they need t
 |  7 | Sign Up   | Clicked on Send button with only first name, surname and email address filled in   |Instructed to select an age range   |  Pass |
 | 8  | Sign Up   | Clicked on Send button with only first name, surname, email address filled in and age range selected  | Instructed to select a gender  | Pass  |
 | 9  | Sign Up   | Clicked on Send button with only first name, surname, email address filled in, age range and gender selected  | Instructed to select a language  | Pass  |
-|  10 | Sign Up   | Clicked on Send button with only first name, surname, email address filled in, age range, gender and a language selected  | Instructed fill in the text box  |  Pass |
+|  10 | Sign Up   | Clicked on Send button with only first name, surname, email address filled in, age range, gender and a language selected  | Instructed to fill in the text box  |  Pass |
 | 11  | Sign Up   |  Clicked on Send button with first name, surname, email address filled in, age range, gender, a language selected and at least one character in the text box | Opened up new tab with the data provided  |  Pass |
 | 12  | Sign Up   | Clicked on reset button with the form filled in  | Reset the form blank |  Pass |
 
