@@ -35,6 +35,10 @@ body {
     list-style-type: none; /*takesout bullet points*/
 }
 
+#menu {
+    font-size: 100%;
+}
+
 #logo {
     color: inherit;
     font-size: 120%;
@@ -43,18 +47,22 @@ body {
     text-transform: uppercase;
 }
     
-#menu {
-    font-size: 100%;
-}
+
 /* Main content */
 main {
     /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
 }
 
+
 #header {
     max-width: 100%;
-    background-color: lightgray;
+    background-color: #1C2452;
+}
+    
+
+.hero {
+   width: 100%;
 }
 
 #intro {
@@ -84,9 +92,7 @@ main {
     color: #328332;
 }
 
-.hero {
-    width: 100%;
-}
+
 
 
 /*About us */
