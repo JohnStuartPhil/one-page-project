@@ -58,6 +58,23 @@ Users of this website shall be able to find all the information that they need t
   - When all the required content has been entered into the Sign Up form and the Send button is pressed, this brings up the entered data into a sperate tab. 
   - I confimred that the reset button works and clears data entered into the Sign Up form when pressed. 
 
+**Summary of testing**
+
+| Test  | Section  | Action  | Result  | Pass/Fail  |
+|---|---|---|---|---|
+| 1  | Nav Bar  |Clicked on About Us   | Took to About Us section  | Pass  |
+| 2  | Nav Bar  | Clicked on Sign Up  |  Took to Sign Up section | Pass  |
+| 3  | Nav Bar  | Clicked on Contact Us   | Took to Contact Us section  |  Pass |
+| 4  | Sign Up   | Clicked on Send button without any information filled in   | Instructed to fill in first name   | Pass  |
+| 5 | Sign Up  | Clicked on Send button with only first name filled in   | Instructed to fill in surname   | Pass  |
+| 6 |  Sign Up  | Clicked on Send button with only first name and surname filled in   | Instructed to fill in email address  |  Pass |
+|  7 | Sign Up   | Clicked on Send button with only first name, surname and email address filled in   |Instructed to select an age range   |  Pass |
+| 8  | Sign Up   | Clicked on Send button with only first name, surname, email address filled in and age range selected  | Instructed to select a gender  | Pass  |
+| 9  | Sign Up   | Clicked on Send button with only first name, surname, email address filled in, age range and gender selected  | Instructed to select a language  | Pass  |
+|  10 | Sign Up   | Clicked on Send button with only first name, surname, email address filled in, age range, gender and a language selected  | Instructed fill in the text box  |  Pass |
+| 11  | Sign Up   |  Clicked on Send button with only first name, surname, email address filled in, age range, gender, a language selected and at least one character in the text box | Opened up new tab with the data provided  |  Pass |
+| 12  | Sign Up   | Clicked on reset button with the form filled in  | Reset the form blank |  Pass |
+
 ### Bugs 
 
 **Solved Bugs**
