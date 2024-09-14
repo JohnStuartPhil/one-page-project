@@ -1,13 +1,11 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&family=Kanit:ital,wght@0,300;1,100&display=swap');
-
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-
 /* General styles */
 body {
     padding: 0;
@@ -46,21 +44,17 @@ body {
     list-style-type: none;
     text-transform: uppercase;
 }
-    
-
 /* Main content */
 main {
     /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
 }
 
-
 #header {
     max-width: 100%;
     background-color: #1C2452;
 }
     
-
 .hero {
    width: 100%;
 }
@@ -91,17 +85,11 @@ main {
 #five {
     color: #328332;
 }
-
-
-
-
 /*About us */
 .aboutuscontactus {
     background-color: #0e2b52;
     color: white;
 }
-
-
 
 #about {
     padding: 12px 10% 12px 10%; 
@@ -116,7 +104,6 @@ main {
 }
 #list {
     justify-content: left;
-    /*list-style-type: none;*/
     list-style-position: inside;   
 }
 
@@ -135,20 +122,13 @@ li {
     text-align: left;
     font-size: 100%;
 }
-
 /*styling the table*/
 th, td { 
     padding: 2px;
     text-align: left;
     border-bottom: 1px solid white;
 }
-
-
-
-
     /* Sign up */
-    
-
 #signup {
     color: black;
     background-color: lightgray;
@@ -157,9 +137,6 @@ th, td {
     display: flex;
     text-align: center;
 }
-
-
-
 
 #buttons {
     padding: 20px 10% 20px 10%; 
@@ -171,15 +148,11 @@ th, td {
     justify-content: space-between;
 }
 
-
 #contactus {
     padding: 10px 10% 10px 10%; 
     justify-content: space-evenly;
     text-align: center;
 }
-
-
-
 /* Footer */
 footer {
     color: black;
@@ -206,10 +179,8 @@ footer {
 } 
 /* Media queries */
 @media screen and (min-width: 768px) {
-    
     #nav {
         height: 60px;
-        
     }
 
     #nav ul {
@@ -230,7 +201,6 @@ footer {
     #menu > li {
         padding-left: 1rem;
     }
-
 /* header */
 #header {
     display: flex;
@@ -238,15 +208,11 @@ footer {
         #hero {
             width: 50%;
             background-color: inherit;
-            /*position: relative;*/
-            /*bottom: 0;*/
         }
        
         #intro {
-            /*text-align: center;*/
             width: 50%;
             font-size: 90%;
-            /*margin-top: 0%*/
         }
 
 #onoffer {
@@ -256,7 +222,6 @@ footer {
 #about {
  width: 50%;
  font-size: 80%;
- /*justify-content: space-evenly;*/
 }
 
 #list {
@@ -274,7 +239,6 @@ footer {
 
 }
 
-
 @media screen and (min-width: 992px) {
             #intro {
                 font-size: 150%;
@@ -285,20 +249,8 @@ footer {
             padding: 10px 20% 0 20%; 
         }
 
-
-
         @media screen and (min-width: 1920px) {
             #intro {
                 font-size: 220%;
             }
-        }
-
-        
-        
-        
-        
-        
-    
-        
-
-            
+        }            
