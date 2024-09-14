@@ -9,7 +9,7 @@ Users of this website shall be able to find all the information that they need t
 
 ## Features 
 
-- Navigation
+** Navigation
   - Featured at the top of the page, the navigations shows the club name in the top left corner: LANGUAGES SCHOOL that linkes to the top of the page. 
   - The other navigation links are to the right: About Us, Sign Up and Contact Us which link to the differenet sections of the same page.
   - The navigation is in a clear, easy to read font and a color that contrasts with the background. 
@@ -17,13 +17,13 @@ Users of this website shall be able to find all the information that they need t
 
 ![alt text](assets/imagesforreadme/navbar.PNG)
 
-- The Header
+** The Header
   - The header shows the name of the school and and the languages that can be learnt there. The languages are shown in colors, French in blue, German in black, Spanish in orange, Chinese in red and Arabic in green.
   - This part of the website provides the user with clear information about what the site is, who it is for and which languages can be learnt there.
 
 ![alt text](assets/imagesforreadme/hero.PNG)    
 
-- The About Us Section 
+** The About Us Section 
   - The About Us section provides details about what the school offers and a timetable of language classes.
   - This section shows the user the important information that they need to know about the club, what is on offer and class times for each language.
 
