@@ -138,20 +138,20 @@ The live link can be found here - https://johnstuartphil.github.io/one-page-proj
 ## Forking the Repository
 - To Folk a repository, the steps are as follows:
   
-  -Go to the Code tab of the GitHub repository.
-  -Click on the down arrow of the Folk section.
-  -This should create a copy of the repository in your own repository.
+  - Go to the Code tab of the GitHub repository.
+  - Click on the down arrow of the Folk section.
+  - This should create a copy of the repository in your own repository.
 
 ## Cloning the Repository
 - To make a clone of a repository, the steps are as follows:
 
-  -Go to the Code tab of the GitHub repository.
-  -Click on the down arrow of the green code button.
-  -Select a URL provided and copy it to the clipboard.
-  -Enter the URL into your browser.
-  -Click on the green Gitpod Open button to open up Gitpod.
-  -Type 'git clone'.
-  -This shall bring up the slected repository at the time it was cloned ready to be edited.
+  - Go to the Code tab of the GitHub repository.
+  - Click on the down arrow of the green code button.
+  - Select a URL provided and copy it to the clipboard.
+  - Enter the URL into your browser.
+  - Click on the green Gitpod Open button to open up Gitpod.
+  - Type 'git clone'.
+  - This shall bring up the slected repository at the time it was cloned ready to be edited.
 
 ## Credits 
 
