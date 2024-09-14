@@ -158,27 +158,19 @@ th, td {
     text-align: center;
 }
 
+
+
+
 #buttons {
     padding: 20px 10% 20px 10%; 
 }
-
-/*
-#signup-form {
-    color: black;
-    background-color: lightgray;
-    padding: 10px 10% 10% 10%; 
-    justify-content: space-evenly;
-    display: flex;
-    text-align: center;
-}
-
 
 .radiobuttons {
     width: 100%;
     display: flex;
     justify-content: space-between;
 }
-*/
+
 
 #contactus {
     padding: 10px 10% 10px 10%; 
@@ -246,18 +238,15 @@ footer {
         #hero {
             width: 50%;
             background-color: inherit;
-            /*background-color: #1C2452;*/
-            position: relative;
-            bottom: 0;
+            /*position: relative;*/
+            /*bottom: 0;*/
         }
        
         #intro {
-            padding:padding: 20px 1% 20px 1%; 
-            color: inherit;
-            text-align: center;
+            /*text-align: center;*/
             width: 50%;
             font-size: 90%;
-            margin-top: 0%
+            /*margin-top: 0%*/
         }
 
 #onoffer {
@@ -267,7 +256,7 @@ footer {
 #about {
  width: 50%;
  font-size: 80%;
- justify-content: space-evenly;
+ /*justify-content: space-evenly;*/
 }
 
 #list {
@@ -283,10 +272,6 @@ footer {
     text-align: left;
 }
 
-
-
-
-
 }
 
 
@@ -294,6 +279,10 @@ footer {
             #intro {
                 font-size: 150%;
             }
+        }
+
+        #signup {
+            padding: 10px 20% 0 20%; 
         }
 
 
