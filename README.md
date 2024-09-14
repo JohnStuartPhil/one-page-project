@@ -88,6 +88,12 @@ Users of this website shall be able to find all the information that they need t
 
 ![alt text](assets/imagesforreadme/lighthousedesktop.PNG)
 
+**Wave results:**
+
+| Errors  | Contrast errors  | Alerts  | Features  | Structural Elements  | ARIA  |
+|---|---|---|---|---|---|
+|  0 |  0 | 0  |  15 | 28  | 6  |
+
 ![alt text](assets/imagesforreadme/wavetest.PNG)
 
 
