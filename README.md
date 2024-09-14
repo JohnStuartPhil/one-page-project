@@ -13,8 +13,8 @@ Users of this website shall be able to find all the information that they need t
 
 - Navigation
 
--- Featured at the top of the page, the navigations shows the club name in the top left corner: LANGUAGES SCHOOL that linkes to the top of the page. 
--- The other navigation links are to the right: About Us, Sign Up and Contact Us which link to the differenet sections of the same page.
--- The navigation is in a clear, easy to read font and a color that contrasts with the background. 
--- The navigation clearly tells the user the name of the school and the website and makes different sections of information easy to find. 
+- Featured at the top of the page, the navigations shows the club name in the top left corner: LANGUAGES SCHOOL that linkes to the top of the page. 
+- The other navigation links are to the right: About Us, Sign Up and Contact Us which link to the differenet sections of the same page.
+- The navigation is in a clear, easy to read font and a color that contrasts with the background. 
+- The navigation clearly tells the user the name of the school and the website and makes different sections of information easy to find. 
 
