@@ -115,12 +115,17 @@ Users of this website shall be able to find all the information that they need t
 
 The live link can be found here - https://johnstuartphil.github.io/one-page-project/
 
+
+
 ## Credits 
 
 **Content**
 - The code to make the Asterisk wildcard sleector, general styles in the body, Navigation Bar of the CSS and the Social Media linkes were taken from the Love Running Project and edited accordingly.
 - The code to make the Sign Up form was taken from the Coders Cafe tutorial and edited accordingly.
 - The code to style the timetable was taken from www.w3schools.com and edited accordingly - https://www.w3schools.com/css/css_table_style.asp
+- The icons used for the the Social Media links were taken from https://fontawesome.com/
+- The fav icon was constructed from https://favicon.io/
+- The Inter and Kannit fonts were taken from https://fonts.google.com/
 
 **Media** 
 - The Hero image was taken from PXHere - https://pxhere.com/en/photo/1447727
