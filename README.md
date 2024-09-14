@@ -131,7 +131,7 @@ Users of this website shall be able to find all the information that they need t
   - In the code and automation section, select Pages.
   - In the build and Deployment section, under the Source section select Deploy from a Branch.
   - In the build and Deployment section, under the Branch section Main branch and Root file.
-  - Within a few minutes the live site shall then be refreshed
+  - Within a few minutes the live site shall then be refreshed.
 
 The live link can be found here - https://johnstuartphil.github.io/one-page-project/
 
@@ -139,19 +139,19 @@ The live link can be found here - https://johnstuartphil.github.io/one-page-proj
 - To Folk a repository, the steps are as follows:
   
   -Go to the Code tab of the GitHub repository.
-  -Click on the down arrow of the Folk section
-  -This should create a copy of the repository in your own repository
+  -Click on the down arrow of the Folk section.
+  -This should create a copy of the repository in your own repository.
 
 ## Cloning the Repository
 - To make a clone of a repository, the steps are as follows:
 
   -Go to the Code tab of the GitHub repository.
   -Click on the down arrow of the green code button.
-  -Select a URL provided and copy it to the clipboard
-  -Enter the URL into your browser
-  -Click on the green Gitpod Open button to open up Gitpod
-  -Type 'git clone'
-  -This shall bring up the slected repository at the time it was cloned ready to be edited
+  -Select a URL provided and copy it to the clipboard.
+  -Enter the URL into your browser.
+  -Click on the green Gitpod Open button to open up Gitpod.
+  -Type 'git clone'.
+  -This shall bring up the slected repository at the time it was cloned ready to be edited.
 
 ## Credits 
 
