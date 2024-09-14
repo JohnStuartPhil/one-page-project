@@ -107,6 +107,11 @@ Users of this website shall be able to find all the information that they need t
 ## Deployment 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
 
+  - Go to the Settings tab of the GitHub repository.
+  - In the code and automation section, select Pages.
+  - In the build and Deployment section, under the Source section select Deploy from a Branch.
+  - In the build and Deployment section, under the Branch section Main branch and Root file.
+  - Within a few minutes the live site shall then be refreshed
 
 The live link can be found here - https://johnstuartphil.github.io/one-page-project/
 
