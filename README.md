@@ -10,10 +10,10 @@ Users of this website shall be able to find all the information that they need t
 ## Features 
 
 - **Navigation**
-  - Featured at the top of the page, the navigations shows the school name in the top left corner: LANGUAGES SCHOOL that linkes to the top of the page. 
-  - The other navigation links are to the right: About Us, Sign Up and Contact Us which link to the differenet sections of the same page.
-  - The navigation is in a clear, easy to read font and a color that contrasts with the background. 
-  - The navigation clearly tells the user the name of the school and the website and makes different sections of information easy to find. 
+  - Featured at the top of the page, the navigations shows the school name in the top left corner: LANGUAGES SCHOOL that links to the top of the page. 
+  - The other navigation links are to the right: About Us, Sign Up and Contact Us which link to the different sections of the page.
+  - The navigation is in a clear, in an easy to read font and in a color that contrasts with the background. 
+  - The navigation clearly tells the user the name of the school and the website, and makes different sections of information easy to find. 
 
 ![the navigation bar of the website](assets/imagesforreadme/navbar.PNG)
 
@@ -25,27 +25,27 @@ Users of this website shall be able to find all the information that they need t
 
 - **The About Us Section** 
   - The About Us section provides details about what the school offers and a timetable of language classes.
-  - This section shows the user the important information that they need to know about the club, what is on offer and class times for each language.
+  - This section shows the user the important information that they need to know about the school, what is on offer and class times for each language.
 
 ![the about us section of the website](assets/imagesforreadme/aboutus.PNG)
 
 - **The Sign Up form section**
-  - The sign up form section has a form to collect details for any adult interested in learning one of the languages at the Languages School. 
-  - The form collects the persons first name, surname, email address, age range and gender (although there is a 'prefer not to say' option in the dropdown menu).
-  - The person who is interested in signing up must click on the radio button to select one of the languages.
-  - There is also a box for the interested person to advise why they wish to learn that language. 
+  - The sign up form section has a form to collect details for any adult interested in learning one of the languages available on offer at the Languages School. 
+  - The form collects the persons first name, surname, email address, age range and gender (although there is a 'prefer not to say' option in the dropdown menu on gender).
+  - The person who is interested in signing up must click on a radio button to select one of the languages.
+  - There is also a box for the interested person to advise why they wish to learn that particular language. 
 
 ![the sign up form section of the website](assets/imagesforreadme/signupform.PNG)
 
 - **The Contact Us section**
   - The Contact Us Section provides a phone mumber, email address and a UK street address where the school can be located. 
-  - The contact section is valuable to the user as it gives them the ability to find and contact the Languages School if they need to.
+  - The contact section is valuable to the user as it gives them the ability to find and contact the Languages School should they need to.
 
 ![the contact us section of the website](assets/imagesforreadme/contactus.PNG)
 
 - **The footer**
-  - The footer contains links to social media external pages by clicking on icons. These social media sites are Facebook, YouTube and Instagram.
-  - Below the social media icons is the copyright of the website author.
+  - The footer contains links to social media external pages by clicking on the icons. These social media sites are Facebook, YouTube and Instagram.
+  - Below the social media icons is the copyright of the website author and year of publication.
 
 ![the footer of the website](assets/imagesforreadme/footer.PNG)
 
@@ -53,19 +53,22 @@ Users of this website shall be able to find all the information that they need t
   - I tested the webpage in different browsers: Chrome, Firefox, Microsoft Edge and WaveBrowser.
   - I confirmed that the website is reponsive, looks good and functions on all standard screen sizes using the devtools device toolbar. 
   - I confirmed that the navigation, header, about us, sign up and contact us text are all readable and easy to understand.
-  - I have confirmed that the navigation bar works and takes the user to the appropriate section of the website.
-  - I have confirmed that the form works: requires entries in every field, will only accpet an email in he email field, one radio button must be selected and at least one charachter must be entered into the textarea box.
+  - I confirmed that the navigation bar works and takes the user to each appropriate section of the website.
+  - I confirmed that the form works: requires entries in every field, will only accpet an email in he email field, one radio button must be selected and at least one charachter must be entered into the textbox.
   - When all the required content has been entered into the Sign Up form and the Send button is pressed, this brings up the entered data into a sperate tab. 
-  - I have confimred that the reset button works and clears data entered into the Sign Up form when pressed. 
+  - I confimred that the reset button works and clears data entered into the Sign Up form when pressed. 
 
 ### Bugs 
 
 **Solved Bugs**
   - While using DevTools, I noticed that there were warnings regarding the site.webmanifest part of the code in the FavIcon section in the Head was not linking correctly. This was resolved with tutor support help.
 
+![warnings generated from dev tools](assets/imagesforreadme/warning.png)
+
   - Updating the url to add a dot before the trailing slash to indicate the png is in the same directory fixed the problem.
 
-![warnings generated from dev tools](assets/imagesforreadme/warning.png)
+![site webmanifest code part 1](assets/imagesforreadme/sitewebmanfest1.PNG)
+![site webmanifest code part 2](assets/imagesforreadme/sitewebmanfest2.PNG)  
 
 **Validator Testing**
 - HTML 
