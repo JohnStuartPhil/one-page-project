@@ -147,10 +147,7 @@ th, td {
 
 
     /* Sign up */
-.signup {
-    color: black;
-    display: flex;
-}
+    
 
 #signup {
     color: black;
@@ -161,25 +158,27 @@ th, td {
     text-align: center;
 }
 
-#signup>h2 {
-    
-    margin-bottom: 20px;
+#buttons {
+    padding: 20px 10% 20px 10%; 
 }
 
+/*
 #signup-form {
     color: black;
     background-color: lightgray;
     padding: 10px 10% 10% 10%; 
     justify-content: space-evenly;
-    /*display: flex;*/
+    display: flex;
     text-align: center;
 }
+
 
 .radiobuttons {
     width: 100%;
     display: flex;
     justify-content: space-between;
 }
+*/
 
 #contactus {
     padding: 10px 10% 10px 10%; 
@@ -188,9 +187,7 @@ th, td {
     
 }
 
-#buttons {
-    padding: 20px 10% 20px 10%; 
-}
+
 
 /* Footer */
 footer {
