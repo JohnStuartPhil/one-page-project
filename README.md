@@ -140,7 +140,8 @@ The live link can be found here - https://johnstuartphil.github.io/one-page-proj
   
   - Go to the Code tab of the GitHub repository.
   - Click on the down arrow of the Folk section.
-  - This should create a copy of the repository in your own repository which could be used for testing only purposes.
+  - This should create a copy of the repository in your own repository.
+  - This copy could be used for testing purposes only without affecting the main repository.
 
 ## Cloning the Repository
 - To make a clone of a repository, the steps are as follows:
