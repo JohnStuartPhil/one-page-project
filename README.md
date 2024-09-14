@@ -115,7 +115,16 @@ Users of this website shall be able to find all the information that they need t
 
 The live link can be found here - https://johnstuartphil.github.io/one-page-project/
 
+- To access another repository, the steps are as follows:
+  
+  -Go to the Code tab of the GitHub repository.
+  -Select another repository.
 
+- To make a clone of a repository, the steps are as follows:
+
+  -Go to the Code tab of the GitHub repository.
+  -Click on the down arrow of the green code button.
+  -Select a URL.
 
 ## Credits 
 
