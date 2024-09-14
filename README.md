@@ -29,3 +29,22 @@ Users of this website shall be able to find all the information that they need t
 
 ![alt text](assets/imagesforreadme/aboutus.PNG)
 
+- **The Sign Up form section**
+  - The sign up form section has a form to collect details for any adult interested in learning one of the languages at the Languages School. 
+  - The form collects the persons first name, surname, email address, age range and gender (although there is a 'prefer not to say' option in the dropdown menu).
+  - The person who is interested in signing up must click on the radio button to select one of the languages.
+  - There is also a box for the interested person to advise why they wish to learn that language. 
+
+![alt text](assets/imagesforreadme/signupform.PNG)
+
+- **The Contact Us section**
+  - The Contact Us Section provides a phone mumber, email address and a UK street address where the school can be located. 
+  - The contact section is valuable to the user as it gives them the ability to find and contact the Languages School if they need to.
+
+![alt text](assets/imagesforreadme/contactus.PNG)
+
+- **The footer**
+  - The footer contains links to social media external pages by clicking on icons. These social media sites are Facebook, YouTube and Instagram.
+  - Below the social media icons is the copyright of the website author.
+
+![alt text](assets/imagesforreadme/footer.PNG)
