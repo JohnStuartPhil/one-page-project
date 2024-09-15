@@ -1,12 +1,12 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&family=Kanit:ital,wght@0,300;1,100&display=swap');
-/* Asterisk wildcard selector to override default styles added by the browser */
+/* Asterisk wildcard selector to override default styles added by the browser - from Love Running Walkthrough and edited accordingly*/
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-/* General styles */
+/* General styles - from Love Running Walkthrough and edited accordingly*/
 body {
     padding: 0;
     margin: 0;
@@ -46,7 +46,7 @@ body {
 }
 /* Main content */
 main {
-    /* Enlarge main element to push footer down*/
+    /* Enlarge main element to push footer down - from Love Running Walkthrough and edited accordingly*/
     flex: 1 0 auto;
 }
 
@@ -122,7 +122,7 @@ li {
     text-align: left;
     font-size: 100%;
 }
-/*styling the table*/
+/*styling the table - from W3Schools website*/
 th, td { 
     padding: 2px;
     text-align: left;

@@ -158,7 +158,7 @@ The live link can be found here - [Languages School](https://johnstuartphil.gith
 
 **Content**
 - The style of the website was influenced from the Sample project.
-- The code to make the Asterisk wildcard sleector, general styles in the body, Navigation Bar of the CSS and the Social Media links were taken from the Love Running walkthrough and edited accordingly.
+- The code to make the Asterisk wildcard sleector, general styles in the body, Navigation Bar of the CSS and the Social Media links were taken from the Love Running walkthrough project and edited accordingly.
 - The code to make the Sign Up form was taken from the Coders Cafe tutorial and edited accordingly.
 - The code to style the timetable was taken from [W3Schools](https://www.w3schools.com/css/css_table_style.asp) and edited accordingly.
 - The icons used for the the Social Media links were taken from [Font Awesome](https://fontawesome.com/).
