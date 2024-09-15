@@ -56,7 +56,7 @@ Users of this website shall be able to find all the information that they need t
   - I confirmed that the navigation bar works and takes the user to each appropriate section of the website.
   - I confirmed that the signup form works: it requires entries in every field, it shall only accept an email in he email field, one radio button must be selected and at least one charachter must be entered into the textbox.
   - When all the required content has been entered into the Sign Up form and the Send button is pressed, this brings up the entered data into a sperate tab. 
-  - I confimred that the Reset Form button works and clears data entered into the Sign Up form when pressed. 
+  - I confirmed that the Reset Form button works and clears data entered into the Sign Up form when pressed. 
 
 **Summary of testing**
 
@@ -91,7 +91,7 @@ Users of this website shall be able to find all the information that they need t
 - HTML 
   - No errors were retunred when passing through the official W3C validator.
 - CSS 
-  - No errors were retunred when passing through the official (Jigsaw) validator.
+  - No errors were retunred when passing through the official Jigsaw validator.
 - Accessibility 
   - I confirmed that the colors and fonts chosen, are easy to read and accessible by running it through Lighthouse in both mobile and deskptop in Dev Tools.
   - WAVE was also used to test validity which has no errors nor contrast errors.
