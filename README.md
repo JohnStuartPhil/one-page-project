@@ -166,3 +166,9 @@ The live link can be found here - https://johnstuartphil.github.io/one-page-proj
 
 **Media** 
 - The Hero image was taken from PXHere - https://pxhere.com/en/photo/1447727
+
+**Thanks to:**
+
+- Mentors: Matthew Bodden, David Bowers 
+- Tutors: Gemma, Oisin, Roo, Sarah, Thomas
+- Student Care: Kieron 
