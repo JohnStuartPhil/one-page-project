@@ -87,6 +87,9 @@ Users of this website shall be able to find all the information that they need t
 ![Site webmanifest code part 1](assets/imagesforreadme/sitewebmanfest1.PNG)
 ![Site webmanifest code part 2](assets/imagesforreadme/sitewebmanfest2.PNG)  
 
+**Unsolved Bugs**
+  - None. 
+
 **Validator Testing**
 - HTML 
   - No errors were retunred when passing through the official W3C validator.
