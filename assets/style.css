@@ -25,12 +25,12 @@ body {
 }
 
 #nav a {
-    text-decoration: none; /*takes out underlines*/
+    text-decoration: none; 
     color: inherit;
 }
 
 #nav ul {
-    list-style-type: none; /*takesout bullet points*/
+    list-style-type: none; 
 }
 
 #menu {
@@ -201,7 +201,7 @@ footer {
     #menu > li {
         padding-left: 1rem;
     }
-/* header */
+
 #header {
     display: flex;
 }
